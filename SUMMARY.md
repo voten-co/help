@@ -13,4 +13,5 @@
 * [Is Voten available in languages other than English?](is-voten-available-in-languages-other-than-english.md)
 * [What is karma?](what-is-karma.md)
 * [Why didn't my post show up?](why-didnt-my-post-show-up.md)
+* [I made a mistake in my post title, how can I edit it?](i-made-a-mistake-in-my-post-title-how-can-i-edit-it.md)
 
