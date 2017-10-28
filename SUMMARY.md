@@ -9,4 +9,5 @@
 * How many channels can I follow/subscribe to?
 * [Do channels have their own rules?](do-channels-have-their-own-faqs.md)
 * [What is report abuse?](what-is-report-abuse.md)
+* [Can anyone post on Voten ?](can-anyone-post-on-voten.md)
 
