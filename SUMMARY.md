@@ -8,4 +8,5 @@
 * [How do I follow/subscribe to a channel ?](how-do-i-followsubscribe-to-a-channel.md)
 * How many channels can I follow/subscribe to?
 * [Do channels have their own rules?](do-channels-have-their-own-faqs.md)
+* [What is report abuse?](what-is-report-abuse.md)
 
