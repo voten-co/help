@@ -12,4 +12,5 @@
 * [Can anyone post on Voten ?](can-anyone-post-on-voten.md)
 * [Is Voten available in languages other than English?](is-voten-available-in-languages-other-than-english.md)
 * [What is karma?](what-is-karma.md)
+* [Why didn't my post show up?](why-didnt-my-post-show-up.md)
 
