@@ -16,4 +16,5 @@
 * [I made a mistake in my post title, how can I edit it?](i-made-a-mistake-in-my-post-title-how-can-i-edit-it.md)
 * [Is posting someone's private or personal information okay?](is-posting-someones-private-or-personal-information-okay.md)
 * [Is posting political campaign information okay?](is-posting-political-campaign-information-okay.md)
+* [What are the rules?](what-are-the-rules.md)
 
