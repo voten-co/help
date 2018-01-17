@@ -11,7 +11,7 @@
 * [What is report abuse?](what-is-report-abuse.md)
 * [Can anyone post on Voten ?](can-anyone-post-on-voten.md)
 * [Is Voten available in languages other than English?](is-voten-available-in-languages-other-than-english.md)
-* [What is karma?](what-is-karma.md)
+* [What is XP?](what-is-karma.md)
 * [Why didn't my post show up?](why-didnt-my-post-show-up.md)
 * [I made a mistake in my post title, how can I edit it?](i-made-a-mistake-in-my-post-title-how-can-i-edit-it.md)
 * [Is posting someone's private or personal information okay?](is-posting-someones-private-or-personal-information-okay.md)

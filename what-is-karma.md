@@ -1,2 +1,2 @@
-In very simple words, Karma is how much you contribute to the channels and your approval among users. You get higher Karma if you gain more up-votes and your Karma drops when you receive a down-vote from a user.
+XP on Voten stands for experience point \(just like in the video games\). It is how much you contribute to the channels and your approval among users. You gain XPs when a voter votes on your posts and comments. 
 
